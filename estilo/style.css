@@ -16,6 +16,8 @@ body{
     background: url(../imagens/background1.jpg) center top;
     background-repeat: no-repeat;
     background-position: cover;
+    background-attachment: fixed;
+
     color: white;
 }
 header{
